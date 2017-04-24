@@ -43,7 +43,7 @@ Dataset
 1            | 국내 매출액   |Numeric      |달러       |  
 <br />
   
-Final Result
+Final Model
 -
   
 ![result](./image/result.png)
