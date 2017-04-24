@@ -18,7 +18,7 @@ Dataset
 - 네이버 영화, BOX OFFICE MOJO 사이트 크롤링  
 - 추가 작업: kaggle imdb 데이터로 nan값 채움  
 - nan값이 없는 343편의 영화를 분석 대상으로 선정  
-
+<br />
 
 ##### 독립 변수
 ---
