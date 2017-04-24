@@ -8,7 +8,6 @@ predict movie sales
 
 Workflow
 -
-
 ![workflow](./image/workflow.png)
 <br />
 
