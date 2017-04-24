@@ -5,13 +5,11 @@ predict movie sales
 - 분석에 사용할 독립 변수는, 영화 제작시점에서만 알 수 있는 정보로 제한
 - 국내에서 흥행한 외화의 요소에 대해 알아보기  
 <br />
-<br />
 
 Workflow
 -
 
 ![workflow](./image/workflow.png)
-<br />
 <br />
 
 Dataset
@@ -45,8 +43,6 @@ Dataset
 -------------| -------------| -------------| -------------
 1            | 국내 매출액   |Numeric      |달러       |  
 <br />
-<br />
-
   
 Final Result
 -
