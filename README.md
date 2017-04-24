@@ -6,15 +6,13 @@ predict movie sales
 - 국내에서 흥행한 외화의 요소에 대해 알아보기  
 <br />
 <br />
-<br />  
+
 Workflow
 -
 
 ![workflow](./image/workflow.png)
 <br />
 <br />
-<br />
-
 
 Dataset
 -
@@ -48,10 +46,9 @@ Dataset
 1            | 국내 매출액   |Numeric      |달러       |  
 <br />
 <br />
-<br />
+
   
-  
-Result
+Final Result
 -
   
 ![result](./image/result.png)
