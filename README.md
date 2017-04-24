@@ -23,12 +23,12 @@ Dataset
 ### 독립 변수
  
              
-변수          | 자료형
-------------- | -------------
-장르          | Category
-시리즈물      | Content Cell
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+             | 변수         |자료형         |변수 설명       |
+-------------| -------------| -------------| -------------
+1            | 장르          |Category      |시리즈물       |
+2            | 관람 등급     | Category     |시리즈물       |
+3            |시리즈물       |Numeric       |시리즈물       |
+4            |영화 제작비    |Numeric       |시리즈물       |
+5            |감독 지수      |Numeric       |시리즈물       |
+6            |배우 지수      |Numeric       |시리즈물       |
+7            |개봉계절        |Category       |시리즈물       |
